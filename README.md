@@ -2,7 +2,7 @@
 
 A modern, full-stack web application for collaborative project and task management with role-based access control. Built with React, Express.js, and MongoDB.
 
-Live Demo: teamtaskmanager-production-9ce3.up.railway.app
+Live Demo: https://teamtaskmanager-production-9ce3.up.railway.app/login
 
 ## 🎯 Overview
 
